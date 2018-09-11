@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/CarDealership.Solution/CarDealership.Tests/bin/Debug/netcoreapp1.0.4/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/CarDealership.Solution/CarDealership.Tests/bin/Debug/netcoreapp1.0.4/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/CarDealership.Solution/CarDealership.Tests/bin/Debug/netcoreapp1.0.4/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/CarDealership.Solution/CarDealership.Tests/bin/Debug/netcoreapp1.0.4/CarDealership.Tests.deps.json
+/Users/Guest/Desktop/CarDealership.Solution/CarDealership.Tests/bin/Debug/netcoreapp1.0.4/CarDealership.Tests.runtimeconfig.json
+/Users/Guest/Desktop/CarDealership.Solution/CarDealership.Tests/bin/Debug/netcoreapp1.0.4/CarDealership.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/CarDealership.Solution/CarDealership.Tests/bin/Debug/netcoreapp1.0.4/CarDealership.Tests.dll
+/Users/Guest/Desktop/CarDealership.Solution/CarDealership.Tests/bin/Debug/netcoreapp1.0.4/CarDealership.Tests.pdb
+/Users/Guest/Desktop/CarDealership.Solution/CarDealership.Tests/bin/Debug/netcoreapp1.0.4/CarDealership.dll
+/Users/Guest/Desktop/CarDealership.Solution/CarDealership.Tests/bin/Debug/netcoreapp1.0.4/CarDealership.pdb
+/Users/Guest/Desktop/CarDealership.Solution/CarDealership.Tests/obj/Debug/netcoreapp1.0.4/CarDealership.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/CarDealership.Solution/CarDealership.Tests/obj/Debug/netcoreapp1.0.4/CarDealership.Tests.dll
+/Users/Guest/Desktop/CarDealership.Solution/CarDealership.Tests/obj/Debug/netcoreapp1.0.4/CarDealership.Tests.pdb
