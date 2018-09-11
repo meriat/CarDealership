@@ -2,7 +2,7 @@
 <ul>
 @foreach(var car in Model)
 {
-<li>@car.GetMakeModel(), @car.GetYear(), @car.GetPrice(), @car.GetMiles()</li>
+<li>Make: @car.GetMakeModel() | Year: @car.GetYear() | Price: @car.GetPrice() | Miles: @car.GetMiles()</li>
 }
 
 </ul>

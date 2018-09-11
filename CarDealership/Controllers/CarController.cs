@@ -21,7 +21,7 @@ namespace CarDealership.Controllers
     [HttpPost("/cars")]
     public ActionResult Create()
     {
-      Car newCar = new Car(Request.Form["new-makeModel"], Request.Form["new-year"], Request.Form["new-price"], Request.Form["new-miles"]);
+      Car newCar = new Car(Request.Form["new-makeModel"], Request.Form["new-year"], int.Parse(Request.Form["new-price"]), int.Parse(Request.Form["new-miles"]));
       newCar.Save();
       List<Car> allCars = Car.GetList();
       return View("Index", allCars);

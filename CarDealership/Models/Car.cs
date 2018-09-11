@@ -7,12 +7,12 @@ namespace CarDealership.Models
   {
     private string _makeModel;
     private string _year;
-    private string _price;
-    private string _miles;
+    private int _price;
+    private int _miles;
 
     private static List<Car> _instances = new List<Car>(){};
 
-    public Car (string makeModel, string year, string price, string miles)
+    public Car (string makeModel, string year, int price, int miles)
     {
       _makeModel = makeModel;
       _year = year;
@@ -35,19 +35,19 @@ namespace CarDealership.Models
     {
       _year = newYear;
     }
-    public string GetPrice()
+    public int GetPrice()
     {
       return _price;
     }
-    public void SetPrice(string newPrice)
+    public void SetPrice(int newPrice)
     {
       _price = newPrice;
     }
-    public string GetMiles()
+    public int GetMiles()
     {
       return _miles;
     }
-    public void SetMiles(string newMiles)
+    public void SetMiles(int newMiles)
     {
       _miles = newMiles;
     }
